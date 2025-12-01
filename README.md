@@ -27,7 +27,7 @@ project/
 │
 ├── notebooks/
 │   ├── WEEK2_BASELINE.ipynb
-│   └── WEEK3_TUNING_AND_GRU.ipynb
+│   └── WEEK3_TUNING.ipynb
 │
 ├── models/
 │   ├── best_gru_model.h5   (may not be uploaded due to size limits)
