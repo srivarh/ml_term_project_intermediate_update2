@@ -4,7 +4,7 @@
 
 ### *Machine Learning Term Project – Final Submission*
 
-### *Praveen Kumar Konathala – TAMUSA*
+### *Mahitha Sri Varshini Alla – TAMUSA*
 
 ---
 
